@@ -16,10 +16,9 @@
     color: #fff !important;
     text-shadow: 0 2px 10px #000, 0 1px 0 #4a2e1f;
 }
-body {
-    background: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXFhoaGBYYFhoYGxgYFxgZHRgYFx0dHSggHxolHRgYITEiJSkrLy4uFx8zODMtNygtLisBCgoKDg0OGxAQGy8lICUtLS8tLS0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/...") no-repeat center center fixed;
-    background-size: cover;
-    min-height: 100vh;
+body { background: url('https://static.vecteezy.com/system/resources/thumbnails/071/343/438/small/dynamic-splash-of-dark-coffee-captured-in-motion-within-a-black-mug-on-a-wooden-surface-photo.jpg') no-repeat center center fixed; 
+      background-size: cover;
+      min-height: 100vh;
 }
 
 .nav-bar{
